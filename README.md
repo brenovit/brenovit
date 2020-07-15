@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello there 👋, I'm Breno Arantes...
 
-<!--
-**brenovit/brenovit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://sourcerer.io/brenovit"><img src="https://avatars0.githubusercontent.com/u/15836714?v=4" height="50px" width="50px" alt="Sourcerer"/></a>
 
-Here are some ideas to get you started:
+...a 23Y/O Software Developer from <span>&#x1f1e7;&#x1f1f7;</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on with: Java(Spring), Javascript (Angular2+, VueJs), PL/SQL, Jenkins and Docker
+- 🌱 I’m currently learning MicroService, Kafka, Clean Architecture and Cloud (AWS)
+- 💬 Ask me about anything... and I like software, animes, life, games, food
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Breno_Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-nunes/)](https://www.linkedin.com/in/breno-nunes/)
+- 😄 Pronouns: He/Him/His/IT
+- ⚡ Fun fact: I like coffe and I love tea
+
+<a href="https://sourcerer.io/brenovit"><img src="https://img.shields.io/badge/Java-263%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/brenovit"><img src="https://img.shields.io/badge/JavaScript-267%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/brenovit"><img src="https://img.shields.io/badge/Dart-7%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/brenovit"><img src="https://img.shields.io/badge/Ruby-18%20commits-orange.svg" alt=""></a>
+
+![Breno's github stats](https://github-readme-stats.vercel.app/api?username=brenovit&show_icons=true&hide=["issues"])
+
+⭐️ From [brenovit](https://github.com/[brenovit])
