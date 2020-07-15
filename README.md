@@ -1,14 +1,13 @@
-### Hi there 👋, I'm Breno...
+### Hello there 👋, I'm Breno Arantes...
 
 <a href="https://sourcerer.io/brenovit"><img src="https://avatars0.githubusercontent.com/u/15836714?v=4" height="50px" width="50px" alt="Sourcerer"/></a>
 
 ...a 23Y/O Software Developer from <span>&#x1f1e7;&#x1f1f7;</span>
 
-- 🔭 I’m currently working on with with Java(Spring), Javascript (Angular2+, VueJs), PL/SQL
-- 🌱 I’m currently learning MicroService, Kafka, Clean Architecture
+- 🔭 I’m currently working on with: Java(Spring), Javascript (Angular2+, VueJs), PL/SQL, Jenkins and Docker
+- 🌱 I’m currently learning MicroService, Kafka, Clean Architecture and Cloud (AWS)
 - 💬 Ask me about anything... and I like software, animes, life, games, food
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Breno_Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-nunes/)](https://www.linkedin.com/in/breno-nunes/)
-  , skype
 - 😄 Pronouns: He/Him/His/IT
 - ⚡ Fun fact: I like coffe and I love tea
 
