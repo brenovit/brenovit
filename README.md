@@ -4,8 +4,8 @@
 
 ...a 23Y/O Software Developer from <span>&#x1f1e7;&#x1f1f7;</span>
 
-- 🔭 I’m currently working on with: Java(Spring), Javascript (Angular2+, VueJs), PL/SQL, Jenkins and Docker
-- 🌱 I’m currently learning MicroService, Kafka, Clean Architecture and Cloud (AWS)
+- 🔭 I’m currently working on with: Java(Spring), Javascript (Angular2+, VueJs, Reac), Mongo, RabbitMQ, Jenkins and Docker
+- 🌱 I’m currently learning MicroService, Rabbit MQ, Clean Architecture and Cloud Computing.
 - 💬 Ask me about anything... and I like software, animes, life, games, food
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Breno_Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-nunes/)](https://www.linkedin.com/in/breno-nunes/)
 - 😄 Pronouns: He/Him/His/IT
