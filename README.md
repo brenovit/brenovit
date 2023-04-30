@@ -2,13 +2,12 @@
 
 <a href="https://sourcerer.io/brenovit"><img src="https://avatars0.githubusercontent.com/u/15836714?v=4" height="50px" width="50px" alt="Sourcerer"/></a>
 
-...a 23Y/O Software Developer from <span>&#x1f1e7;&#x1f1f7;</span>
+...a Software Engineer from <span>&#x1f1e7;&#x1f1f7;</span> living in <span>&#127475;&#127473;</span>/Utrecht
 
-- 🔭 I’m currently working on with: Java(Spring), Javascript (Angular2+, VueJs, Reac), Mongo, RabbitMQ, Jenkins and Docker
-- 🌱 I’m currently learning MicroService, Rabbit MQ, Clean Architecture and Cloud Computing.
+- 🔭 I have experience with: Java/Kotlin(Spring), TypeScript (Angular2+, VueJs), Mongo, Azure, Docker
+- 🌱 I’m currently learning MicroService, Event Sourcing, Clean Architecture and Cloud Computing.
 - 💬 Ask me about anything... and I like software, animes, life, games, food
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Breno_Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-nunes/)](https://www.linkedin.com/in/breno-nunes/)
-- 😄 Pronouns: He/Him/His/IT
 - ⚡ Fun fact: I like coffe and I love tea
 
 <a href="https://sourcerer.io/brenovit"><img src="https://img.shields.io/badge/Java-263%20commits-orange.svg" alt=""></a>
