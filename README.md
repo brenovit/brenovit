@@ -15,6 +15,6 @@
 <a href="https://sourcerer.io/brenovit"><img src="https://img.shields.io/badge/Dart-7%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/brenovit"><img src="https://img.shields.io/badge/Ruby-18%20commits-orange.svg" alt=""></a>
 
-[GitHub Stats](brenovit_card.png)
+[![GitHub Stats](brenovit_card.png)]
 
 ⭐️ From [brenovit](https://github.com/[brenovit])
